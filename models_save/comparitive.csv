@@ -1,0 +1,7 @@
+﻿Model,Database,Accuracy
+InceptionV3 ,MNIST-DIGIT,94.99
+InceptionV3 ,MNIST-Fashion,85.77
+InceptionV3 ,CIFAR10,62.89
+Block-Based,MNIST-DIGIT,99.21
+Block-Based,MNIST-Fashion,92.08
+Block-Based,CIFAR10,73.97
